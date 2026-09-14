@@ -8,7 +8,7 @@ The practicals focus on Object-Oriented Programming concepts such as classes, ob
 
 ## Student Information
 
-- **Name:** Sejal O. Tapase
+- **Name:** Sejal D. Tapase
 - **Branch:** CSE (AIML)
 - **Division:** A1
 - **Batch:** A1
